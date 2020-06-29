@@ -12,3 +12,6 @@ def about():
 
 if __name__ == '__main__':
   app.run(port=33507)
+
+
+# NYS data https://health.data.ny.gov/resource/xdss-u53e.json
